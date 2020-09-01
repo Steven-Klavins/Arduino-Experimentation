@@ -18,7 +18,7 @@ A simple project which allows you to control the movement of a servo motor with 
 
 • 1 X Potentiometer (3 pin) 
 
- [The Arduino IDE](https://www.arduino.cc/en/main/software)
+• [The Arduino IDE](https://www.arduino.cc/en/main/software)
 
 <p align="center">
 <img src="01.jpg" alt="screenshot" width="600"/>
