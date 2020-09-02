@@ -21,6 +21,10 @@ A simple project which allows you to control the movement of a servo motor with 
 • [The Arduino IDE](https://www.arduino.cc/en/main/software)
 
 <p align="center">
+<img src="Schematic.png" alt="Schematic" width="600"/>
+</p>
+
+<p align="center">
 <img src="01.jpg" alt="screenshot" width="600"/>
 </p>
 
