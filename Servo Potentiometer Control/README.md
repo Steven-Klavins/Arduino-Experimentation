@@ -26,7 +26,7 @@ A simple project which allows you to control the movement of a servo motor with 
 
 **B.** To connect to your servo you can simply push one end of the jumper cable into the connector and the other to the breadboard. The positive wire of the servo connects to the positive rail and the negative to the negative rail. The positive will typically be red and the negative will typically be black or brown, refer to your servo's instructions if you're unsure. Finally, connect the last wire (the signal) to pin 9 of your Arduino, this wire will typically be orange, white, or yellow.
 
-**3.** Potentiometers come in all shapes and sizes, however, providing yours has 3 pins the left will be positive, the middle will be the signal and the right will be negative. Connect the positive to the positive rail, the negative to the negative rail, and the middle to A1 of the Arduino (analog input 1).
+**C.** Potentiometers come in all shapes and sizes, however, providing yours has 3 pins the left will be positive, the middle will be the signal and the right will be negative. Connect the positive to the positive rail, the negative to the negative rail, and the middle to A1 of the Arduino (analog input 1).
 
 <p align="center">
 <img src="Schematic.png" alt="Schematic" width="600"/>
