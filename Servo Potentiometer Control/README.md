@@ -18,6 +18,14 @@ A simple project which allows you to control the movement of a servo motor with 
 
 • 1 X Potentiometer (3 pin) 
 
+## Setup
+
+### A
+Use jumper wires to connect the 5v pin of the Arduino to the breadboards positive rail and the GRD pin to the negative. This will provide the power to the outer rails for the other components.
+
+### B
+
+
 • [The Arduino IDE](https://www.arduino.cc/en/main/software)
 
 <p align="center">
