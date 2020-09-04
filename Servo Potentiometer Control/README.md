@@ -31,7 +31,7 @@ A simple project which allows you to control the movement of a servo motor with 
 **D.** Connect your Arduino and open the Arduino IDE, select your board type via **tools > board** and the correct port via **tools > port** (only one available port will show providing only one Ardunio is connected)
 
 **E.**
-Add the [code](https://github.com/Steven-Klavins/Arduino-Experimentation/blob/master/Servo%20Potentiometer%20Control/Servo%20Potentiometer%20Control.ino) to the IDE and uploaded it by clicking on the upload arrow. Your done! 
+Add the [code](https://github.com/Steven-Klavins/Arduino-Experimentation/blob/master/Servo%20Potentiometer%20Control/Servo%20Potentiometer%20Control.ino) to the IDE and upload it by clicking on the upload arrow. Your done! 
 
 <p align="center">
 <img src="Schematic.png" alt="Schematic" width="600"/>
