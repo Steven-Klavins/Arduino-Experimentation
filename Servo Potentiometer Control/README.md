@@ -53,4 +53,10 @@ Add the [code](https://github.com/Steven-Klavins/Arduino-Experimentation/blob/ma
 
 **#include <Servo.h>** Imports [the servo library](https://www.arduino.cc/reference/en/libraries/servo/) a C++ library developed for Arduino/Genuino boards.
 
+**Servo myServo;** Creates a new servo object named myServo, this object represents our real-life servo and allows us to control it.
 
+**int val;** The integer val is later used to track the position of our servo. 
+
+**void setup** is used to initialize variables, it goes at the top of the file and as you can guess its the 'set up' stage of the code
+
+**myServo.attach(9);** which resides in the set up assigns the pin that controls the servo, in this case, 9.
