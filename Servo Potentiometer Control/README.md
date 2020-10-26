@@ -57,6 +57,9 @@ Add the [code](https://github.com/Steven-Klavins/Arduino-Experimentation/blob/ma
 
 **int val;** The integer val is later used to track the position of our servo. 
 
-**void setup** is used to initialize variables, it goes at the top of the file and as you can guess its the 'set up' stage of the code
+**void setup** is used to initialize variables, it goes at the top of the file and as you can guess its the 'set up' stage of the code.
 
 **myServo.attach(9);** which resides in the set up assigns the pin that controls the servo, in this case, 9.
+
+
+**void loop()** contains the code we want to infinitely allowing the program to change and respond.
