@@ -6,6 +6,10 @@ This repository has been created to document and share the code from my Arduino 
 <img src="arduino-logo.png" alt="screenshot" width="600"/>
 </p>
 
-## Projects
+## Beginner Projects
 
 [Servo Potentiometer Control](https://github.com/Steven-Klavins/Arduino-Experimentation/tree/master/Servo%20Potentiometer%20Control)
+
+## Intermediate Projects 
+
+## Advanced Projects 
