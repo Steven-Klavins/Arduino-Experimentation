@@ -49,3 +49,8 @@ Add the [code](https://github.com/Steven-Klavins/Arduino-Experimentation/blob/ma
 <img src="03.jpg" alt="screenshot" width="600"/>
 </p>
 
+## The Code 
+
+**#include <Servo.h>** Imports [the servo library](https://www.arduino.cc/reference/en/libraries/servo/) a C++ library developed for Arduino/Genuino boards.
+
+
